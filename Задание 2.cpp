@@ -19,9 +19,9 @@ int main() {
 
         if (Figura == 0) break;
 
-        std::cout << "Координаты А (1-8 1-8): ";
+        std::cout << "Координаты А: ";
         std::cin >> positionA.first >> positionA.second;
-        std::cout << "Координаты B (1-8 1-8): ";
+        std::cout << "Координаты B: ";
         std::cin >> positionB.first >> positionB.second;
 
         if (positionA.first <= 1 || positionA.first >= 8 || positionA.second <= 1 || positionA.second >= 8 || positionB.first <= 1 || positionB.first >= 8 || positionB.second <= 1 || positionB.second >= 8) {

@@ -36,7 +36,7 @@ int main()
         cout << "Condition is true" << endl;
     } else{cout << "Condition is false" << endl;}
 
-    cout << "хотя бы одно из чисел X, Y, Z больше 100" << endl;
+    cout << "хотя бы одно из чисел X, Y, Z больше 100:" << endl;
     if (X > 100 || Y > 100 || Z > 100) {
         cout << "Condition is true" << endl;
     } else{cout << "Condition is false" << endl;}

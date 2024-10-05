@@ -22,9 +22,6 @@ int main()
                 break;
             case 0:
                 return 0;
-                break;
         }
     }
-    return 0;
-
 }

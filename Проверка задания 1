@@ -1,0 +1,9 @@
+X=12
+Y=13
+Z=225
+каждое из чисел X и Y нечетное:Condition is false
+только одно из чисел X и Y меньше 20:Condition is false
+хотя бы одно из чисел X и Y равно нулю:Condition is false
+каждое из чисел X, Y, Z отрицательное:Condition is false
+только одно из чисел X, Y и Z кратно пяти:Condition is true
+хотя бы одно из чисел X, Y, Z больше 100:Condition is true

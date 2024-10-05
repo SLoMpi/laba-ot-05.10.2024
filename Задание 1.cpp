@@ -56,7 +56,12 @@ int main()
                     cout << "Condition is true" << endl;
                 } else{cout << "Condition is false" << endl;}
             break;
+            default:
+                std::cout << "Неверный выбор! Попробуйте снова.\n";
+            break;
         }
+
+
     }
     return 0;
 
